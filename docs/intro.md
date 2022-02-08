@@ -5,8 +5,6 @@ slug: /
 
 # Intro
 
-## About
-
 Cubelify is a suite of Minecraft and Hypixel oriented tools, including a website, a stats overlay and a Discord bot.
 
 ## Docs
