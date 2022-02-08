@@ -43,8 +43,9 @@ const config = {
         },
         items: [
           {
-            href: 'https://cubelify.com',
-            label: 'Website',
+            to: 'https://cubelify.com',
+            target: '_self',
+            label: 'Home',
           },
           {
             href: "https://discord.gg/cubelify",
