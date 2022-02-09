@@ -49,7 +49,7 @@ const config = {
           },
           {
             href: "https://discord.gg/cubelify",
-            label: "Discord",
+            label: "Discord Community",
           }
         ],
       },
