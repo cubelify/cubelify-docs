@@ -1,7 +1,6 @@
 {
-  "label": "Overlay",
-  "position": 2,
-  "collapsed": false,
+  "label": "Installation",
+  "position": 1,
   "link": {
     "type": "generated-index",
     "title": "Overlay"
