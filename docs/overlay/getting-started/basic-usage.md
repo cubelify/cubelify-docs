@@ -41,7 +41,7 @@ The app bar contains buttons, allowing you to access some of the most important 
 
 ![](/img/docs/overlay/getting-started/basic-usage/app-bar.png)
 
-### Menu
+#### Menu
 
 The first button allows you to open the app's menu. It contains shortcuts to other views the app has.
 
