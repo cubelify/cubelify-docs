@@ -15,11 +15,11 @@ Open the download dialog by pressing the `Download` button. Then, select `Window
 
 ![](/img/docs/overlay/getting-started/installation/windows-installer/download-windows.png)
 
-Afterwards, select `Installer (.exe)` as the download platform.
+Next, select `Installer (.exe)` as the download platform.
 
 ![](/img/docs/overlay/getting-started/installation/windows-installer/download-installer.png)
 
-You might be asked if you'd like to keep the file. To continue, press `Keep`.
+You might be asked if you'd like to keep the file; to continue, press `Keep`.
 
 ![](/img/docs/overlay/getting-started/installation/windows-installer/file-can-harm.png)
 
@@ -29,13 +29,13 @@ After the download process ends, click on the downloaded file to launch the inst
 
 ![](/img/docs/overlay/getting-started/installation/windows-installer/click-file.png)
 
-You might receive a warning from Microsoft Defender SmartScreen stating that the app is unrecognized. If that occurs,
-press `More info` and then `Run anyway`.
+You might receive a warning from Microsoft Defender SmartScreen stating that the app is unrecognized. If that
+occurs, press `More info`, and then `Run anyway`.
 
 :::info
 
-This warning is shown because the application is not signed, not because its content has been flagged by an
-anti-virus. It is not shown if you
+This warning is shown because the application is not signed, not because its content has been flagged by an antivirus.
+It is not shown if you
 [install the app using Microsoft Store](/overlay/getting-started/installation/windows-microsoft-store).
 
 :::
