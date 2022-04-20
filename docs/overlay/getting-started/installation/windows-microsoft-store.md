@@ -7,7 +7,7 @@ pagination_next: overlay/getting-started/initial-setup
 
 :::info
 
-The release of updates to the Microsoft Store is usually delayed compared to other platform, as they require
+The release of updates to the Microsoft Store is usually delayed compared to other platforms, as they require
 certification before they become available.
 
 :::

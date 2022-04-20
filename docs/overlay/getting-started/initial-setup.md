@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Initial Setup
 
-When you launch the overlay for the first time you'll be asked to perform the initial setup. Please remember that to
+When you launch the overlay for the first time, you'll be asked to perform the initial setup. Please remember that to
 use the overlay you need to have Minecraft: Java Edition installed on your computer.
 
 ## Log File
@@ -16,11 +16,11 @@ game's files or if you're using a launcher such as GDLauncher.
 
 :::caution
 
-If you've installed the app through Snapcraft on Linux, you'll not be able to use it with a log file placed in a
-hidden directory or outside your home directory. Unfortunately by default both the default Minecraft launcher and
-most clients use such a location.
+If you've installed the app through Snapcraft on Linux, you won't be able to use it with a log file placed in a
+hidden directory or outside your home directory. Unfortunately, by default, the default Minecraft launcher and
+most other clients use such a location.
 
-As a workaround, you can either change the log file's location in your launcher or client's settings, or [install the
+As a workaround, you can either change the log file's location in your launcher/client's settings, or [install the
 app using the AppImage](/overlay/getting-started/installation/linux-portable) instead.
 
 :::
@@ -29,13 +29,11 @@ app using the AppImage](/overlay/getting-started/installation/linux-portable) in
 
 ## API Key
 
-Afterwards you'll be asked to enter your Hypixel API key. If you have one already, please enter it.
+Afterwards, you'll be asked to enter your Hypixel API key. If you have one already, please enter it.
 
-If you do not have one yet, you can use the in-game command `/api new` on Hypixel.
+If you do not have one yet, you can use the in-game command `/api new` on Hypixel to receive a new API key.
 
 ![](/img/docs/overlay/getting-started/initial-setup/run-api-new.png)
-
-You'll then receive a new API key.
 
 :::info
 
@@ -46,7 +44,7 @@ set correctly or there is some other issue with it.
 
 ## Username
 
-Next, please enter the username of the Minecraft account that you'll be playing on.
+Next, enter the username of the Minecraft account that you'll be playing on.
 
 ![](/img/docs/overlay/getting-started/initial-setup/enter-username.png)
 
@@ -56,7 +54,7 @@ The last part of the initial setup process is logging in with your Cubelify acco
 
 :::note
 
-This is not required, however if you do not log in some features will be unavailable.
+This is not required; however, if you do not log in, some features will be unavailable.
 
 :::
 
@@ -91,7 +89,7 @@ Never approve login attempts which you do not recognize.
 
 ![](/img/docs/overlay/getting-started/initial-setup/approve-log-in.png)
 
-Afterwards return to the overlay.
+Afterwards, return to the overlay.
 
 ### Link Account
 
@@ -103,7 +101,7 @@ This is also not required, though it is recommended to gain full access to all f
 
 :::
 
-The Cubelify account settings page will open. Locate the *Minecraft Accounts* section and press `Add` to add a new
+The Cubelify account settings page will then open. Locate the *Minecraft Accounts* section and press `Add` to add a new
 Minecraft account. This will open a dialog.
 
 ![](/img/docs/overlay/getting-started/initial-setup/add-minecraft-account.png)
@@ -129,7 +127,7 @@ You'll receive a verification code, that you'll then need to enter in your brows
 
 ![](/img/docs/overlay/getting-started/initial-setup/add-minecraft-account-code.png)
 
-After you do that just press `Add` to add the account and return to the overlay.
+After you do that, simply press `Add` to add the account and return to the overlay.
 
 ![](/img/docs/overlay/getting-started/initial-setup/added-minecraft-account.png)
 
