@@ -18,6 +18,7 @@ users.
 
 #### General
 
+- Golden Premium player icon and row background.
 - Auto refresh yourself or your party on server change or game end.
 - See a list of player's friends.
 - See a list of player's recent games.
