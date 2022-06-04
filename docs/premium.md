@@ -38,6 +38,8 @@ users.
 - Access to the following columns:
   - Guild Name (Guild Tag is available to all users)
   - Head
+  - Unofficial Ranked Bed Wars - Registered
+  - Unofficial Ranked Bed Wars - Ranked Rating (ELO)
   - Alpha Anti-Sniper Tags
   - Gamma Anti-Sniper Tags
   - Delta Anti-Sniper Tags
