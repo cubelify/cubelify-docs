@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The session stats feature allows you to view other players' daily, weekly and monthly stats.
 
-## Set Up
+## Setup
 
 Before you can start using session stats you'll first have to configure them.
 
