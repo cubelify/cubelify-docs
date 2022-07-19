@@ -129,6 +129,41 @@ contact us using the `hello(at)cubelify.com` e-mail address.
 
 ### Alternative Methods
 
+#### Discord Server Boost
+
+Another way you can obtain Premium is by boosting the [official Cubelify Discord server](https://discord.gg/cubelify)
+. Please note that this is only available to the first 15 boosters, meaning that if you boost while there are
+already 15 or more boosters you'll have to wait until one (or more) of them resign, sorted by the time
+they started boosting in ascending order.
+
+##### How-To
+
+First of all, you'll need to [join the official Cubelify Discord server](https://discord.gg/cubelify).
+
+Before you continue, you can check how many boosters there are at the moment by using the command `/boost-premium`
+of the Cubelify Discord bot. This command will also show your position if you're already boosting.
+
+![](/img/docs/premium/boost-command.png)
+
+Afterwards if the booster limit hasn't been reached yet, or you'd like to reserve a spot in the queue, boost the
+Discord server.
+
+![](/img/docs/premium/boost-menu.png)
+
+![](/img/docs/premium/boost.png)
+
+#### Crypto
+
+If you'd like to purchase Premium using cryptocurrency, please create a ticket (category: Billing) in the [Cubelify
+Discord server](https://discord.gg/cubelify). Please note that only BTC, ETH, LTC and BCH are accepted and you have to
+purchase at least 3 months.
+
+#### Other
+
+There are also some other ways of obtaining Premium, such as winning events, tournaments and giveaways, or
+participating in limited time events. We announce these the `#announcements`, `#giveaways` and `#events` channels in
+the [official Cubelify Discord server](https://discord.gg/cubelify)
+
 #### Patreon
 
 :::warning
@@ -164,32 +199,3 @@ follows, so for example if you subscribe on May 20th, you'll be charged on May 2
 August 1st etc.
 
 :::
-
-#### Discord Server Boost
-
-Another way you can obtain Premium is by boosting the [official Cubelify Discord server](https://discord.gg/cubelify)
-. Please note that this is only available to the first 15 boosters, meaning that if you boost while there are
-already 15 or more boosters you'll have to wait until one (or more) of them resign, sorted by the time
-they started boosting in ascending order.
-
-##### How-To
-
-First of all, you'll need to [join the official Cubelify Discord server](https://discord.gg/cubelify).
-
-Before you continue, you can check how many boosters there are at the moment by using the command `/boost-premium`
-of the Cubelify Discord bot. This command will also show your position if you're already boosting.
-
-![](/img/docs/premium/boost-command.png)
-
-Afterwards if the booster limit hasn't been reached yet, or you'd like to reserve a spot in the queue, boost the
-Discord server.
-
-![](/img/docs/premium/boost-menu.png)
-
-![](/img/docs/premium/boost.png)
-
-#### Other
-
-There are also some other ways of obtaining Premium, such as winning events, tournaments and giveaways, or
-participating in limited time events. We announce these the `#announcements`, `#giveaways` and `#events` channels in
-the [official Cubelify Discord server](https://discord.gg/cubelify)
