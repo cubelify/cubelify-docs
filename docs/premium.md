@@ -29,17 +29,15 @@ users.
 - Disable auto report.
 - Access to external anti-snipers:
   - Alpha - "BWStats"
-  - Gamma - "Run"
+  - Gamma - "Seraph"
   - Delta - "Antisniper.net"
   - Custom - custom solution
 
 #### Columns
 
 - Access to the following columns:
-  - Guild Name (Guild Tag is available to all users)
   - Head
-  - Unofficial Ranked Bed Wars - Registered
-  - Unofficial Ranked Bed Wars - Ranked Rating (ELO)
+  - Guild Name (Guild Tag is available to all users)
   - Alpha Anti-Sniper Tags
   - Gamma Anti-Sniper Tags
   - Delta Anti-Sniper Tags
