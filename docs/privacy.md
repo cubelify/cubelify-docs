@@ -18,4 +18,4 @@ information when making purchases. This information is stored and processed by S
 their [Privacy Policy](https://stripe.com/privacy) and the [Data Processing Agreement](https://stripe.com/legal/dpa).
 
 You may contact us with any enquiries regarding this privacy policy, data collected or to exercise your rights by
-contacting us at hello(at)cubelify(dot)com.
+contacting us at privacy (at) cubelify (dot) com.
