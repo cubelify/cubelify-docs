@@ -9,72 +9,13 @@ users.
 
 ## Perks
 
-### [Discord Server](https://discord.gg/cubelify)
-
-- Golden Premium role.
-- Access to `#premium` channel.
-
-### Overlay
-
-#### General
-
-- Golden Premium player icon and row background.
-- Auto refresh yourself or your party on server change or game end.
-- See a list of player's friends.
-- See a list of player's recent games.
-- See player's setup (quick buy, hotbar slots, favorite maps).
-
-#### Anti-Sniper
-
-- Disable auto report.
-- Access to external anti-snipers:
-  - Alpha - "BWStats"
-  - Gamma - "Seraph"
-  - Delta - "Antisniper.net"
-  - Custom - custom solution
-
-#### Columns
-
-- Access to the following columns:
-  - Head
-  - Guild Name (Guild Tag is available to all users)
-  - Alpha Anti-Sniper Tags
-  - Gamma Anti-Sniper Tags
-  - Delta Anti-Sniper Tags
-  - Custom Anti-Sniper Tags
-
-#### Appearance
-
-- Customize background colors.
-- Customize font family.
-
-#### Notifications
-
-- Receive system notifications about the following:
-  - Game started
-  - Game starts in 10 seconds
-  - Queued
-
-#### Nicks
-
-- Add more than 4 nicks.
-
-#### Lists
-
-- Add more than 1 list.
+You compare the various plans available [here](https://cubelify.com/premium).
 
 ## Obtaining
 
 There are a few ways available that you can utilize to obtain Premium.
 
 ### Subscribing
-
-:::tip
-
-Use the code **`SWITCH`** before July 3rd, 2022 for a **20% discount** on your first payment: $4/month instead of
-$5/month or $40/year instead of $50/year.
-
-:::
 
 The easiest way to obtain Premium is by subscribing at the cost of $5/month or $50/year. You can do that by visiting
 your [account settings](https://cubelify.com/settings). Payments are handled through Stripe.
@@ -161,39 +102,3 @@ purchase at least 3 months.
 There are also some other ways of obtaining Premium, such as winning events, tournaments and giveaways, or
 participating in limited time events. We announce these the `#announcements`, `#giveaways` and `#events` channels in
 the [official Cubelify Discord server](https://discord.gg/cubelify)
-
-#### Patreon
-
-:::warning
-
-This is a legacy method. It will be removed in the future.
-
-:::
-
-You can obtain Premium by becoming a patron at the cost of $5 per month.
-
-##### How-To
-
-Open [Cubelify account settings](https://cubelify.com/settings). Log in if you're not logged in already.
-
-![](/img/docs/premium/log-in.png)
-
-Locate the "Premium" section. The list there should have "Patreon" as its first element. Press the "Link" button on
-the right. If you see a "Join" or "Manage" button, skip to the next step.
-
-![](/img/docs/premium/link-patreon.png)
-
-Press the "Join" button. If you see a "Manage" button, then you're already an active patron and you do not need to
-take any further steps.
-
-![](/img/docs/premium/join.png)
-
-You'll then have to become a patron on the Patreon website in order to obtain Premium.
-
-:::info
-
-Please keep in mind that you'll be charged on the day you subscribe and then on the 1st day of every month that
-follows, so for example if you subscribe on May 20th, you'll be charged on May 20th and then on June 1st, July 1st,
-August 1st etc.
-
-:::
