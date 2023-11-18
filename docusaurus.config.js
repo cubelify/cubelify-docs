@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Cubelify Docs',
   tagline: 'A suite of Minecraft and Hypixel oriented tools',
-  url: 'https://cubelify.com',
-  baseUrl: '/docs/',
+  url: 'https://docs.cubelify.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
