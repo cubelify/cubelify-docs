@@ -7,9 +7,15 @@ sidebar_position: 1
 You can use the Cubelify Overlay in borderless fullscreen mode with the help of a free 3rd party application called
 Borderless Gaming.
 
-:::info
+:::note
 
 The Borderless Gaming app is only available on Windows.
+
+:::
+
+:::tip
+
+[A similar built-in functionality](/overlay/features/borderless-fullscreen) is now also available in the overlay.
 
 :::
 
