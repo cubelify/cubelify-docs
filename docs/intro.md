@@ -14,8 +14,8 @@ things Cubelify has to offer. They're split into 3 main sections, each of which 
 
 :::caution
 
-While we struggle to keep these docs up to date in regard to any updates released, you might find some content or
-screenshots out of date.
+While we aim to keep these docs up to date in regard to any updates released, you may find some content or screenshots
+out of date.
 
 :::
 
