@@ -17,8 +17,11 @@ game's files or if you're using a launcher such as GDLauncher.
 :::caution
 
 If you've installed the app through Snapcraft on Linux, you'll not be able to use it with a log file placed in a
-hidden directory or outside your home directory. Unfortunately by default both the default Minecraft launcher and
-most clients use such a location.
+hidden directory or outside your home directory. The only exception to this rule are the following locations:
+
+- `~/.minecraft/logs/latest.log`
+- `~/.lunarclient/offline/multiver/logs/latest.log`
+- `~/.minecraft/logs/blclient/minecraft/latest.log`
 
 As a workaround, you can either change the log file's location in your launcher or client's settings, or [install the
 app using the AppImage](/overlay/getting-started/installation/linux-portable) instead.
@@ -26,23 +29,6 @@ app using the AppImage](/overlay/getting-started/installation/linux-portable) in
 :::
 
 ![](/img/docs/overlay/getting-started/initial-setup/select-log-file.png)
-
-## API Key
-
-Afterwards you'll be asked to enter your Hypixel API key. If you have one already, please enter it.
-
-If you do not have one yet, you can use the in-game command `/api new` on Hypixel.
-
-![](/img/docs/overlay/getting-started/initial-setup/run-api-new.png)
-
-You'll then receive a new API key.
-
-:::info
-
-The API key should get automatically detected by the overlay. If it is not, it's possible that your log file is not
-set correctly or there is some other issue with it.
-
-:::
 
 ## Username
 
@@ -52,15 +38,8 @@ Next, please enter the username of the Minecraft account that you'll be playing 
 
 ## Log In
 
-The last part of the initial setup process is logging in with your Cubelify account.
-
-:::note
-
-This is not required, however if you do not log in some features will be unavailable.
-
-:::
-
-To log in, press the `Log In` button.
+The last part of the initial setup process is logging in with your Cubelify account.  To log in, press the `Log In`
+button.
 
 ![](/img/docs/overlay/getting-started/initial-setup/press-log-in-overlay.png)
 
@@ -74,64 +53,31 @@ You then might receive a prompt from Discord asking you authorize Cubelify. To d
 :::info
 
 We're requesting this information from Discord in order to be able to identify you and, in the future, to be able to
-see your servers for the Discord bot dashboard. **This is a secure process. We will not receive full access to your
-Discord account.**
+see your servers for the Discord bot dashboard. This is a secure process that does not require you to share your
+Discord account credentials with us and only grants us the privileges you approve.
+
+:::
+
+:::tip
+
+Make sure that the Discord username shown here matches the username of the account you're using and will use in the
+later steps to join the Cubelify Discord server.
 
 :::
 
 ![](/img/docs/overlay/getting-started/initial-setup/authorize-discord.png)
 
-You'll be then asked to approve the login attempt. To do that, press `Approve`.
-
-:::danger
-
-Never approve login attempts which you do not recognize.
-
-:::
+You'll be then asked to confirm that you're trying to log in to the Cubelify Overlay. To do that, press *Yes*. You may
+then be asked to confirm that you want to open the Cubelify Overlay app.
 
 ![](/img/docs/overlay/getting-started/initial-setup/approve-log-in.png)
 
-Afterwards return to the overlay.
+## Link
 
-### Link Account
-
-If you see a message asking you to link your Minecraft, press the `Link Account` button in order to do that.
-
-:::info
-
-This is also not required, though it is recommended to gain full access to all features.
-
-:::
-
-The Cubelify account settings page will open. Locate the *Minecraft Accounts* section and press `Add` to add a new
-Minecraft account. This will open a dialog.
-
-![](/img/docs/overlay/getting-started/initial-setup/add-minecraft-account.png)
-
-First, please enter the username of the account you'll be adding.
-
-:::tip
-
-You do not necessarily have to add the same account you'll be playing on. It's recommended that you add the account
-with the highest Bed Wars level here.
-
-:::
-
-![](/img/docs/overlay/getting-started/initial-setup/add-minecraft-account-username.png)
-
-Afterwards, launch Minecraft: Java Edition. Connect to the multiplayer server `verify.cubelify.com`.
-
-![](/img/docs/overlay/getting-started/initial-setup/connect-verification-server.png)
-
-You'll receive a verification code, that you'll then need to enter in your browser.
-
-![](/img/docs/overlay/getting-started/initial-setup/verification-code.png)
-
-![](/img/docs/overlay/getting-started/initial-setup/add-minecraft-account-code.png)
-
-After you do that just press `Add` to add the account and return to the overlay.
-
-![](/img/docs/overlay/getting-started/initial-setup/added-minecraft-account.png)
+You may then be asked to link in the Cubelify Discord server in order to activate Free+ and continue. To do that, you'll
+need to join the [Cubelify Discord server](https://discord.gg/cubelify) and link using `/link` in the *#link* channel.
+If after linking the overlay does not show that Free+ is active, please consult the
+[Free+ troubleshooting guide](/overlay/troubleshooting/inactive-free-plus).
 
 ## Finish
 
