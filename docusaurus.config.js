@@ -39,7 +39,7 @@ const config = {
         title: 'Cubelify Docs',
         logo: {
           alt: 'Cubelify Logo',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
