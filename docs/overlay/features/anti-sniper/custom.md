@@ -82,6 +82,8 @@ interface Response {
 }
 ```
 
+The response must match the JSON Schema at [https://storage.cubelify.com/overlay/customAntiSniperPlayer.schema.json](https://storage.cubelify.com/overlay/customAntiSniperPlayer.schema.json).
+
 #### Fields
 
 ##### `score`
