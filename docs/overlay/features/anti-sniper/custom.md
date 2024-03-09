@@ -21,7 +21,6 @@ find this useful.
 
 :::
 
-
 ## Setup
 
 Open anti-sniper settings using the menu.
@@ -49,13 +48,13 @@ More details regarding how this works are provided below.
 Every time a player is added to the overlay or refreshed, a `GET` request will be sent to the URL provided in
 settings (if the custom anti-sniper is enabled). The following query fields will be set for the URL you've provided:
 
-- `id` - the UUID of the player
+- `id` - the UUID (dashed) of the player
 - `name` - the username of the player
 
 Data already present in the URL's query string will be kept, unless the field names conflict with the ones mentioned
 above, in which case their values will be replaced.
 
-Modifying headers for the request is not possible. If you'd like to authenticate the requests, you can use a query
+Modifying headers for the request is not possible. If you'd like to authenticate the requests, you could use a query
 field for that purpose, for example:
 
 ```
@@ -78,11 +77,13 @@ interface Response {
     text?: string
     tooltip?: string
     color?: number
+    textColor?: number
   }[]
 }
 ```
 
-The response must match the JSON Schema at [https://storage.cubelify.com/overlay/customAntiSniperPlayer.schema.json](https://storage.cubelify.com/overlay/customAntiSniperPlayer.schema.json).
+The response must match the JSON Schema
+at [https://storage.cubelify.com/overlay/customAntiSniperPlayer.schema.json](https://storage.cubelify.com/overlay/customAntiSniperPlayer.schema.json).
 
 #### Fields
 
@@ -108,7 +109,8 @@ tags column.
 
 ###### `tags.icon`
 
-The code for the icon that should be used for this tag. Should use the format `mdi-` + [MDI icon name](https://materialdesignicons.com/) (e. g.
+The code for the icon that should be used for this tag. Should use the
+format `mdi-` + [MDI icon name](https://materialdesignicons.com/) (e. g.
 `mdi-account-alert`).
 
 ###### `tags.text`
@@ -123,6 +125,10 @@ Text that will be shown to the user in a tooltip on hover.
 
 A color to use for the tag in the form of an integer representation of a six-digit hexadecimal color code (e. g.
 `16777215` for `#ffffff`).
+
+##### `tags.textColor`
+
+The color that'll be used for the text in the tag. Uses the same format as `tags.color`.
 
 :::tip
 
