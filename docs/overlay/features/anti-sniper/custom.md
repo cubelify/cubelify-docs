@@ -8,12 +8,6 @@ The custom anti-sniper feature allows you to use a custom anti-sniper solution w
 a request will be sent to the provided API every time a player is added to the overlay or refreshed, and the overlay
 will display the response received in a user-friendly way.
 
-:::info
-
-Premium is required to use this feature.
-
-:::
-
 :::caution
 
 This feature is aimed towards advanced users. If you're unsure how this can be used then you most likely will not
