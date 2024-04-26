@@ -40,13 +40,43 @@ More details regarding how this works are provided below.
 ### Request
 
 Every time a player is added to the overlay or refreshed, a `GET` request will be sent to the URL provided in
-settings (if the custom anti-sniper is enabled). The following query fields will be set for the URL you've provided:
+settings (if the custom anti-sniper is enabled).
+
+#### Default query fields
+
+If you don't include any placeholders in the URL, the following query fields will be set for the URL you've provided:
 
 - `id` - the UUID (dashed) of the player
 - `name` - the username of the player
 
 Data already present in the URL's query string will be kept, unless the field names conflict with the ones mentioned
 above, in which case their values will be replaced.
+
+#### Placeholders
+
+:::note
+
+Added in v1.24.12.
+
+:::
+
+You can also provide any of the following placeholders in the URL. These placeholders will be replaced with appropriate
+values when making a request. Please note that if any of these placeholders are included, the default query fields
+mentioned above will not be added.
+
+:::
+
+- `{{id}}` - the player's dashed UUID
+- `{{name}}` - the player's username
+- `{{sources}}` - the player's comma separated sources list
+
+| Placeholder   | Description                           | Possible values                                                           | Example                                |
+|---------------|---------------------------------------|---------------------------------------------------------------------------|----------------------------------------|
+| `{{id}}`      | Player's dashed UUID                  |                                                                           | `f7c77d99-9f15-4a66-a87d-c4a51ef30d19` |
+| `{{name}}`    | Player's username                     |                                                                           | `hypixel`                              |
+| `{{sources}}` | Player's comma-separated sources list | `GAME`, `PARTY`, `PARTY_INVITES`, `CHAT`, `CHAT_MENTIONS`, `MANUAL`, `ME` | `GAME,PARTY,ME`                        |
+
+#### Headers
 
 Modifying headers for the request is not possible. If you'd like to authenticate the requests, you could use a query
 field for that purpose, for example:
