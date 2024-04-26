@@ -63,3 +63,21 @@ These are the commands to quickly control various elements of the overlay.
 | Hide or show         | `/w $h`, `/w $hide_or_show`         |
 | Toggle click-through | `/w $c`, `/w $toggle_click_through` |
 | Quit                 | `/w $q`, `/w $quit`                 |
+
+## Switching game
+
+:::note
+
+Added in v1.24.12.
+
+:::
+
+These are the commands to quickly switch the current game in the overlay.
+
+| Game           | Command                        |
+|----------------|--------------------------------|
+| Bed Wars       | `/w %bed_wars`, `/w %bw`       |
+| Duels          | `/w %duels`, `/w %d`           |
+| SkyWars        | `/w %skywars`, `/w %sw`        |
+| Wool Wars      | `/w %wool_wars`, `/w %ww`      |
+| Murder Mystery | `/w %murder_mystery`, `/w %mm` |

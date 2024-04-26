@@ -64,8 +64,6 @@ You can also provide any of the following placeholders in the URL. These placeho
 values when making a request. Please note that if any of these placeholders are included, the default query fields
 mentioned above will not be added.
 
-:::
-
 - `{{id}}` - the player's dashed UUID
 - `{{name}}` - the player's username
 - `{{sources}}` - the player's comma separated sources list
