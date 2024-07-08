@@ -66,12 +66,6 @@ These are the commands to quickly control various elements of the overlay.
 
 ## Switching game
 
-:::note
-
-Added in v1.24.12.
-
-:::
-
 These are the commands to quickly switch the current game in the overlay.
 
 | Game           | Command                        |

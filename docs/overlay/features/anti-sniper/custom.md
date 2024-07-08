@@ -54,12 +54,6 @@ above, in which case their values will be replaced.
 
 #### Placeholders
 
-:::note
-
-Added in v1.24.12.
-
-:::
-
 You can also provide any of the following placeholders in the URL. These placeholders will be replaced with appropriate
 values when making a request. Please note that if any of these placeholders are included, the default query fields
 mentioned above will not be added.
