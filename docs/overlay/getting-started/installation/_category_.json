@@ -1,8 +1,8 @@
 {
-  "label": "Installation",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "title": "Overlay"
-  }
+    "label": "Installation",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "title": "Overlay"
+    }
 }

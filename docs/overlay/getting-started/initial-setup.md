@@ -38,7 +38,7 @@ Next, please enter the username of the Minecraft account that you'll be playing 
 
 ## Log In
 
-The last part of the initial setup process is logging in with your Cubelify account.  To log in, press the `Log In`
+The last part of the initial setup process is logging in with your Cubelify account. To log in, press the `Log In`
 button.
 
 ![](/img/docs/overlay/getting-started/initial-setup/press-log-in-overlay.png)

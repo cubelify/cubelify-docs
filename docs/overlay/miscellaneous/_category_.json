@@ -1,8 +1,8 @@
 {
-  "label": "Miscellaneous",
-  "position": 3,
-  "link": {
-    "type": "generated-index",
-    "title": "Miscellaneous"
-  }
+    "label": "Miscellaneous",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "title": "Miscellaneous"
+    }
 }
