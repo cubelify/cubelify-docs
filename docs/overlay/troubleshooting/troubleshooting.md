@@ -35,6 +35,7 @@ the latest version from [the website](https://cubelify.com/overlay/download/maco
 Here are some steps you should take when faced with the most common issues:
 
 - [Players aren't added](#players-arent-added)
+- [Monthly stats are not shown](#monthly-stats-are-not-shown)
 
 If you can't locate the issue you're having in this list or the troubleshooting steps listed below did not help, please
 contact [support](#support).
@@ -56,6 +57,15 @@ Verify if your current log file setting value reflects the launcher/client/mod y
 If it does not, please check if it's listed in the presets list. If it is, select it and verify if it works.
 
 ![](/img/docs/overlay/troubleshooting/log-file-setting.png)
+
+### Monthly Stats Are Not Shown
+
+If you're not seeing monthly stats for a player (but lifetime stats are shown), make sure that:
+
+1. The player has at least 700 wins in one of the gamemodes supported the overlay.
+2. You don't have the *Always Use API Key* setting enabled in *Settings &rarr; Advanced*.
+3. You don't have a *Custom Hypixel API Proxy Player URL* configured in *Settings &rarr; Advanced*.
+4. You have Free+ active in the overlay.
 
 #### Custom Log File
 
