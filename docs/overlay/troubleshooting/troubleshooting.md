@@ -15,6 +15,12 @@ When faced with any issue you should first try the two basic steps listed below:
 
 ### Updating
 
+#### App Installer
+
+The overlay should normally automatically update in the background within 24 hours. If it does not, however, you can
+follow the [installation guide](/overlay/getting-started/installation/windows-app-installer) to update the overlay to
+the latest version.
+
 #### MS Store
 
 If you're using the MS Store version you'll need to update the overlay through there.
