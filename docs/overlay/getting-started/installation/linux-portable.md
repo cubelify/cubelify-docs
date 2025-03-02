@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 pagination_next: overlay/getting-started/initial-setup
 ---
 
