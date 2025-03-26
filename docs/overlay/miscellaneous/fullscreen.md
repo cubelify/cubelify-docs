@@ -13,6 +13,20 @@ The Borderless Gaming app is only available on Windows.
 
 :::
 
+:::caution
+
+Binaries for the Borderless Gaming app were removed from its GitHub releases page. You can
+use [this mirror for version 9.5.6 provided by Cubelify](https://storage.cubelify.com/BorderlessGaming9.5.6_admin_setup.exe)
+in case you do not want to build it from source or purchase it on Steam.
+
+<details>
+<summary>SHA-256</summary>
+
+250D2D883CB9F5A05A60BE5B74191CA357489686A979CF7832FCB4C5F0522EDA
+</details>
+
+:::
+
 :::tip
 
 [A similar built-in functionality](/overlay/features/borderless-fullscreen) is now also available in the overlay.
